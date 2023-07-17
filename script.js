@@ -5,4 +5,4 @@ function rotate() {
 	angle+=1;
 	line.style.transform=`rotate(${angle}deg)`
 }
-setInterval(rotate,10);
+setInterval(rotate,0);
