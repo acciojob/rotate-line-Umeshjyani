@@ -6,8 +6,8 @@
     align-items: center;
     justify-content: center;
 }
-.line{
+#line{
 	width:200px;
 	height:2px;
-	background:black;
+	background-color:black;
 }
